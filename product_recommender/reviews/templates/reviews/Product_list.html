@@ -1,0 +1,17 @@
+<h2>Product list</h2>
+
+{% if Product_list %}
+<div>
+    {% for Product in Product_list %}
+    <div>
+        <h4><a href="{% url 'reviews:Product_detail' Product.id %}">
+        {{ Product.name }}
+        </a></h4>
+        <h5>{{ Product.review_set.count }} reviews</h5>
+        <h5>{{ Product.average_rating | floatformat }} average rating</h5>
+    </div>
+    {% endfor %}
+</div>
+{% else %}
+    <p>No Products are available.</p>
+{% endif %}
