@@ -1,0 +1,50 @@
+id,username,product_id,rating,comment
+0,chandan,0,4,Beautiful product. Great price.
+1,chandan,1,3,Classy Rose. Not great.
+2,chandan,3,4,This can be great with time.
+3,chandan,9,2,it's ok...
+4,chandan,10,5,A treasure of a product
+5,chandan,8,4,"Impressive, but extremely expensive"
+6,navneet,0,2,Tastes like old product
+7,navneet,1,4,Love it... Luxury!
+8,navneet,3,2,Not a big fan of sweets
+9,navneet,9,3,Could wear this more often... Love the color.
+10,navneet,10,2,"too costy, sorry"
+11,navneet,7,4,Powerful and elegant. Masculine.
+12,kailas,0,3,It reminds me of my old shirt :)
+13,kailas,1,2,Not a big fan of this
+14,kailas,3,5,Love sweets!
+15,kailas,4,5,The best white shirt I ever had.
+16,kailas,8,3,This is too large for me
+17,kailas,2,4,"I prefer whites, but I wish all reds were like this"
+18,bittu,0,4,It is good
+19,bittu,1,2,I don't like red
+20,bittu,3,1,I don't like old product
+21,bittu,4,4,Very good product.
+22,bittu,6,5,So good product
+23,bittu,8,5,Awesome
+24,bittu,2,3,"Good, but I prefer the Red"
+25,raghu,0,4,good
+26,raghu,3,4,not good
+27,raghu,7,5,Wonderful
+28,raghu,8,3,Not bad
+29,raghu,2,5,A special one
+30,raghu,1,3,Enjoyable
+31,ratul,0,4,This is very special product
+32,ratul,10,5,Wow!
+33,ratul,3,5,"Hey, this is great stuff!"
+34,ratul,5,4,This is going to be in my memory for a very long time
+35,ratul,2,5,Great!
+36,ratul,8,5,Awesome
+37,suhana,0,4,"Chalk, almonds, rain"
+38,suhana,2,5,"Dry fruit, lead, iron, dry flowers."
+39,suhana,5,5,"great"
+40,suhana,8,4,"God! it's great"
+41,suhana,6,5,"A different one"
+42,suhana,4,5,"not goot"
+43,pari,10,5,"a ordinary one!"
+44,pari,6,4,"great..."
+45,pari,0,4,"great!"
+46,pari,1,2,"it's not bad"
+47,pari,2,4,"damned good job"
+47,pari,8,5,"impressive"

@@ -2,7 +2,6 @@ bin/
 include/
 lib/
 local/
-product_recommender/db.sqlite3
 
 #ignore sublime project
 *.sublime-project
